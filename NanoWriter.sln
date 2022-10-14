@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoWriter", "NanoWriter\NanoWriter.csproj", "{0DD211C1-CDF0-4E12-9852-ECEAEA8CC0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD211C1-CDF0-4E12-9852-ECEAEA8CC0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD211C1-CDF0-4E12-9852-ECEAEA8CC0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD211C1-CDF0-4E12-9852-ECEAEA8CC0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD211C1-CDF0-4E12-9852-ECEAEA8CC0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
